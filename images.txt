@@ -5,3 +5,4 @@ langgenius/dify-web:0.6.11
 langgenius/dify-sandbox:0.2.1
 corentinth/it-tools
 xhofe/alist
+xhofe/alist:main
