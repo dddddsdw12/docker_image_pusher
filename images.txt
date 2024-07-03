@@ -6,3 +6,4 @@ langgenius/dify-sandbox:0.2.1
 corentinth/it-tools
 xhofe/alist
 xhofe/alist:main
+projecthami/hami:v2.3.12
