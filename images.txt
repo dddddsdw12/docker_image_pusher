@@ -7,3 +7,4 @@ corentinth/it-tools
 xhofe/alist
 xhofe/alist:main
 projecthami/hami:v2.3.12
+--platform=linux/arm64 xiaoyaliu/alist
