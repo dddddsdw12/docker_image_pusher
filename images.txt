@@ -4,4 +4,4 @@ semitechnologies/weaviate:1.19.0
 langgenius/dify-web:0.6.11
 langgenius/dify-sandbox:0.2.1
 corentinth/it-tools
-arm32v7/hello-world
+xhofe/alist
