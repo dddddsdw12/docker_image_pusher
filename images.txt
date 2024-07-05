@@ -4,7 +4,4 @@ semitechnologies/weaviate:1.19.0
 langgenius/dify-web:0.6.11
 langgenius/dify-sandbox:0.2.1
 corentinth/it-tools
-xhofe/alist
-xhofe/alist:main
-projecthami/hami:v2.3.12
---platform=linux/arm64 xiaoyaliu/alist
+jasminexzzz/blossom:latest
