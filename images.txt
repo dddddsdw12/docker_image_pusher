@@ -1,1 +1,1 @@
-arm64v8/mysql:latest
+nvidia/nvidia_gpu_exporter:latest
