@@ -1,1 +1,1 @@
-nvidia/nvidia_gpu_exporter:latest
+node:20.16.0
