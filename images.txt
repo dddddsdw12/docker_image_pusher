@@ -1,1 +1,5 @@
-node:20.16.0
+goharbor/chartmuseum-photon:v2.4.2
+goharbor/registry-photon:v2.4.2
+goharbor/harbor-portal:v2.4.2
+goharbor/harbor-jobservice:v2.4.2
+goharbor/harbor-core:v2.4.2
