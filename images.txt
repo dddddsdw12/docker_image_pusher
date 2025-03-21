@@ -1,2 +1,1 @@
-jasminexzzz/blossom:latest
-mysql:8.0.31
+gitlab/gitlab-runner:alpine-v14.6.0
