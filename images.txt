@@ -1,2 +1,1 @@
-percona:ps-8
-centos:7
+perconalab/percona-toolkit:latest
