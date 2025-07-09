@@ -1,2 +1,1 @@
-nasajon/pgbadger-cli:latest
-centos:centos7.9.2009
+centos:8
