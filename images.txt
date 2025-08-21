@@ -1,2 +1,2 @@
-vastdata/vastbase-vector
+apache/seatunnel:latest
 
