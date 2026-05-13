@@ -1,1 +1,2 @@
-apache/seatunnel:latest
+grafana:9.4.3
+grafana:9.4.12
