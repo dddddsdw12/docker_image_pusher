@@ -1,1 +1,1 @@
-grafana/grafana:10.4.19
+nousresearch/hermes-agent:latest
