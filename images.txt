@@ -1,1 +1,1 @@
-nousresearch/hermes-agent:latest
+nbr23/claudecode:claude-code-2.1.162
