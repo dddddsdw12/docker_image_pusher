@@ -1,1 +1,1 @@
-tomcat/tomcat:8.5.41-jre8-alpine
+tomcat:8.5.41-jre8-alpine
